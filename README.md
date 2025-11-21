@@ -7,9 +7,6 @@
   <img src="https://img.shields.io/badge/iOS-App-orange">
 </p>
 
-
-> 本教程仅介绍 App 使用方法，用于隐私保护、远程办公、公共 WiFi 加密等合法用途。  
-> 不包含任何服务或配置文件，请合理使用。
 ## 📚 目录
 - [📥 软件下载（必须海外 Apple ID）](#-软件下载必须海外-apple-id)
 - [📦 ClashMI 使用步骤](#-clashmi-使用步骤最像小火箭)
