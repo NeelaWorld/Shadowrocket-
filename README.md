@@ -40,7 +40,7 @@ https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
 5. 保存后 **Set as Default**  
 6. 首页开关 → 开启即可
 
-[👉 点我查看带图片教程]([https://github.com/your-image-tutorial-repo](https://github.com/DuckerX/Clash-Mi))
+[👉 点我查看带图片教程](https://github.com/DuckerX/Clash-Mi/tree/main)
 
 ---
 
@@ -52,7 +52,7 @@ https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
 4. 导入方式：URL / 扫码 / 文件  
 5. 启用即可
    
-[👉 点我查看带图片教程]([https://github.com/your-image-tutorial-repo](https://github.com/DuckerX/v2box))
+[👉 点我查看带图片教程](https://github.com/DuckerX/v2box/tree/main)
 
 ---
 
