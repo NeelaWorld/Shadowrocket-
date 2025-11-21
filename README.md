@@ -8,14 +8,31 @@
 </p>
 
 ## 📚 目录
+
+- [🔗 代理推荐](#-代理推荐)
 - [📥 软件下载（必须海外 Apple ID）](#-软件下载必须海外-apple-id)
 - [📦 ClashMI 使用步骤](#-clashmi-使用步骤最像小火箭)
 - [📦 V2Box 使用步骤](#-v2box-使用步骤新手最简单)
 - [🆚 对比：Clash.MI / V2Box / Shadowrocket（小火箭）](#-一眼对比应该选哪个)
-- [🔗 代理推荐](#-代理推荐)
+
+---
+# 🔗 代理推荐
+> 以下为可选内容，仅供有需要的用户参考。
+
+## 🥇 大厂（不提供小火箭）
+- **150+ 国家节点｜高速｜可免费体验**  
+- 月付 5 折：`NEW05`  
+- 年付 7 折：`NEW07`  
+https://panel.tabnet.us/#/register?code=zQTBHNXo
 
 ---
 
+## 🥈 价格适中（提供免费小火箭）
+- **多地区｜高速｜最低 1 位数 RMB 套餐**  
+- 所有套餐 7.5 折：`JustTRY`  
+https://neelaworld.com/#/register?code=DrY8tbLQ
+
+---
 ## 📥 软件下载（必须海外 Apple ID）
 
 ### ✅ Clash.MI（iOS / 免费 / 无广告）  
@@ -88,23 +105,3 @@ https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
 
 ---
 
-# 🔗 代理推荐
-> 以下为可选内容，仅供有需要的用户参考。
-
-## 🥇 大厂（不提供小火箭）
-- **150+ 国家节点｜高速｜可免费体验**  
-- 月付 5 折：`NEW05`  
-- 年付 7 折：`NEW07`  
-https://panel.tabnet.us/#/register?code=zQTBHNXo
-
----
-
-## 🥈 价格适中（提供免费小火箭）
-- **多地区｜高速｜最低 1 位数 RMB 套餐**  
-- 所有套餐 7.5 折：`JustTRY`  
-https://neelaworld.com/#/register?code=DrY8tbLQ
-
----
-
-## ⭐ 
-欢迎 Star ⭐ 收藏。
