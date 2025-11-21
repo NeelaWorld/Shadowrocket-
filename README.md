@@ -42,6 +42,8 @@ https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
 5. 保存后 **Set as Default**  
 6. 首页开关 → 开启即可
 
+[👉 点我查看带图片教程](https://github.com/your-image-tutorial-repo)
+
 ---
 
 ## 📦 V2Box 使用步骤（新手最简单）
@@ -51,6 +53,7 @@ https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
 3. 点击 **＋**  
 4. 导入方式：URL / 扫码 / 文件  
 5. 启用即可
+[👉 点我查看带图片教程](https://github.com/your-image-tutorial-repo)
 
 ---
 
@@ -86,14 +89,6 @@ https://panel.tabnet.us/#/register?code=zQTBHNXo
 - **多地区｜高速｜最低 1 位数 RMB 套餐**  
 - 所有套餐 7.5 折：`JustTRY`  
 https://neelaworld.com/#/register?code=DrY8tbLQ
-
----
-
-## 📸 带图片教程（跳转按钮）
-
-[👉 点我查看带图片教程](https://github.com/your-image-tutorial-repo)
-
-> 请将链接替换为你的真实仓库地址。
 
 ---
 
